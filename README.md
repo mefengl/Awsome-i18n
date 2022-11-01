@@ -5,4 +5,4 @@
 
 https://translate.google.com/?sl=auto&op=websites
 
-Input your website, then get the link.
+Input your website, then get the i18n link.
